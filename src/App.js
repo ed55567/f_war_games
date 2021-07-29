@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-// import WarGame from './WarGame.js';
+import WarGame from './WarGame.js';
 
 
 function App(){
@@ -12,4 +12,4 @@ function App(){
   );
 }
 
-export default App;
+export default WarGame;
