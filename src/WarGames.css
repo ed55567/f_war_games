@@ -1,0 +1,40 @@
+.CardTable {
+  background-color: rgb(116, 164, 236);
+  max-height: 600px;
+  height: 500px;
+  min-width: 400px;
+  width: 500px;
+}
+
+.CardTableHeader {
+  display: table;
+  background-color: rgb(156, 165, 179);
+  height: 48px;
+  width: 100%;
+}
+
+.HeaderText {
+  display: inline-block;
+  width: 33%;
+}
+
+.CardTableMainArea {
+  overflow: hidden;
+  background-color: rgb(102, 202, 110);
+  height: 500px;
+  width: 500px;
+}
+
+.CardTableFooter {
+  height: 48px;
+  background-color: azure;
+}
+
+.TableCanvas {
+  height: 500px;
+  width: 500px;
+}
+
+.HiddenImage {
+  display: none;
+}
