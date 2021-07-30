@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './WarGame.css';
-import CadrDeckImage from './cards/red_back.png';
+import CadrDeckImage from './cards/2C.png';
 import CadrCover from './cards/red_back.png';
 
 
