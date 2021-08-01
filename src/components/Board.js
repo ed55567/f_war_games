@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from './Card';
 
-const Board = React.createClass({
+const Board = React.cards({
 
 	getCardPath(symbol, value){
 		let path = './cards/';	

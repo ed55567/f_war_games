@@ -2,7 +2,7 @@ body {
   height: 100%;
 }
 
-.App{
+.App {
   margin-top: 20px;
 }
 
@@ -14,13 +14,14 @@ body {
   margin: 10px auto;
 }
 
-.two, .one{
+.two,
+.one {
   text-align: center;
   width: 23%;
   top: 20%;
 }
 
-.one{
+.one {
   float: left;
 }
 
@@ -42,11 +43,11 @@ body {
 .cards-left {
   float: left;
 }
-.card{
+.card {
   margin: 30px 10px;
 }
 
-#playerOneCard{
+#playerOneCard {
   float: left;
   max-width: 30%;
 }
@@ -66,9 +67,9 @@ body {
   padding: 40px 0px;
 }
 
-.playerBoard:after{
-  content: '';
-  display:table;
+.playerBoard:after {
+  content: "";
+  display: table;
   clear: both;
 }
 
@@ -77,3 +78,4 @@ body {
   text-align: center;
   font-size: 25px;
   padding-top: 20px;
+}
